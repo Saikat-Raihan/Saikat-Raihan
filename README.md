@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Saikat-Raihan
 - 👀 I’m interested in ...Learning new things.
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m currently learning ...Java and cpp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...01647775578
-- 😄 Pronouns: ...
+- 😄 Pronouns: Raihan
 - ⚡ Fun fact: ...I love to travel new places.
 
 <!---
